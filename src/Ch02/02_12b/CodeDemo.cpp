@@ -6,7 +6,7 @@
 #include <cstdint>
 
 enum class cow_purpose {dairy, meat, hide, pet};
-enum class grocery_section {canned, frozen, meat, laundry, bakery};
+enum class grocery_section {canned, frozen, meat, laundry, dairy, bakery};
 
 int main(){
     int meat = 8;
